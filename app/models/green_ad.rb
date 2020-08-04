@@ -1,0 +1,2 @@
+class GreenAd < ApplicationRecord
+end
